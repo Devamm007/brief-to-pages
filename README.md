@@ -26,13 +26,11 @@
 
 ## 🎯 Overview
 
-The **Self-Hosted-LLM-DevOps-Engine** is a API-driven backend service designed to automate the process of turning a simple task brief into a working code repository. Users can send a JSON payload to the running API, which then orchestrates the entire development and deployment flow: LLM code generation (simulated here) $\rightarrow$ GitHub Repository creation $\rightarrow$ GitHub Pages deployment.
+The **Brief-to-Pages** is a API-driven backend service designed to automate the process of turning a simple task brief into a working code repository. Users can send a JSON payload to the running API, which then orchestrates the entire development and deployment flow: LLM code generation (simulated here) $\rightarrow$ GitHub Repository creation $\rightarrow$ GitHub Pages deployment.
 
 This engine is built for **self-hosting**, allowing users to secure their own API keys and secrets for full control over the process.
 
 ## 📑 TDS-Project-1
-
-Some code content is particularly for my project submission and evaluation, a seperate version will be avaible for users to use themselves and can use their own self hosted API-endpoint. [https://github.com/Devamm007/Self-Hosted-LLM-DevOps-Engine Coming Soon!]
 
 My evaluators will:
 Publish a Google Form where I will be submitting my API URL, secret, and this GitHub repo URL
