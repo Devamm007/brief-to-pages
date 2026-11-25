@@ -1,4 +1,4 @@
-# Self-Hosted-LLM-DevOps-Engine 🤖
+# Brief-to-Pages
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688.svg)](https://fastapi.tiangolo.com/)
